@@ -25,7 +25,7 @@
             android:id="@+id/btnWeb"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="WEB" />
 
         <EditText
             android:id="@+id/inputPhoneNo"
@@ -39,6 +39,6 @@
             android:id="@+id/btnPhone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="CALL" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
